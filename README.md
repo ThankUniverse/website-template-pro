@@ -1,7 +1,8 @@
 # website-template-pro
 
-test | tables |
-1 | 2 |
+First | Second 
+------|-------
+Hello | Good
 1. Number one
 1. Ordered List
 
