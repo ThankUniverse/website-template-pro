@@ -1,0 +1,25 @@
+.upperCase {
+  text-transform: uppercase; }
+
+.gray {
+  color: gray; }
+
+.margin2 {
+  margin-top: 2%; }
+
+.marginTop20 {
+  margin-top: 20%; }
+
+.marginTop30 {
+  margin-top: 30%; }
+
+.noMarginBottom {
+  margin-bottom: 0%; }
+
+.marginBottom50 {
+  margin-bottom: 50%; }
+
+.black {
+  background-color: black; }
+
+/*# sourceMappingURL=style.css.map */
