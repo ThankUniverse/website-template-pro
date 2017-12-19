@@ -5,7 +5,17 @@
   <meta charset="utf-8">
   <title>Home-Photography</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  <style media="screen">
+    @media (min-width: 768px) {
+      div.col-sm-7.five-three {
+        width: 60% !important;
+      }
 
+      div.col-sm-5.five-two {
+        width: 40% !important;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -72,11 +82,27 @@
     <div class="row">
       <div class="col flex-nowrap">
         <!-- THIS HTML HAS TO BE FIXED -->
-        <img src="../images/wordpressgrey.png" alt="wordpress grey" class="img-fluid">
-        <img src="../images/jquerygrey.png" alt="jquery grey" class="img-fluid">
-        <img src="../images/kitchnagrey.png" alt="kitchna grey" class="img-fluid">
-        <img src="../images/lessgrey.png" alt="less grey" class="img-fluid">
-        <img src="../images/bussinexgrey.png" alt="bussinex grey" class="img-fluid">
+        <div class="row">
+          <div class="col-4">
+            <img src="../images/wordpressGrey.png" alt="wordpress grey" class="img-fluid">
+          </div>
+          <div class="col-4">
+            <img src="../images/jqueryGrey.png" alt="jquery grey" class="img-fluid">
+          </div>
+          <div class="col-4">
+            <img src="../images/kitchnaGrey.png" alt="kitchna grey" class="img-fluid">
+          </div>
+        </div>
+      </div>
+      <div class="col-5 five-two">
+        <div class="row">
+          <div class="col-6">
+            <img src="../images/lessGrey.png" alt="less grey" class="img-fluid">
+          </div>
+          <div class="col-6">
+            <img src="../images/bussinexGrey.png" alt="bussinex grey" class="img-fluid">
+          </div>
+        </div>
       </div>
     </div>
   </div>
