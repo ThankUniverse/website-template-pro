@@ -6,8 +6,11 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
-  width: 100%;
+
 }
+
+
+
 
 
 
@@ -17,6 +20,7 @@ body {
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
+
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -105,6 +109,14 @@ body {
   background-size:100%;
   background-repeat: no-repeat;
   color: #FFFFFF;
+}
+.text-center{
+  margin: 0 auto;
+  margin-top: 2em;
+}
+footer{
+  background-color: black;
+  width: 100%;
 }
 
 /* RESPONSIVE CSS
