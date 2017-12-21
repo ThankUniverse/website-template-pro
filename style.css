@@ -35,7 +35,10 @@
 {
 	background-color: #EBEDE6;
 }
-
+.bg-blue
+{
+	background-color: blue;
+}
 .absolute
 {
 	position: absolute;
