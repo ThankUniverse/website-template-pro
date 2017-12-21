@@ -72,7 +72,9 @@ HOME - PHOTOGRAPHY
 HOME - DIGITAL - PORTFOLIO
 --------------------------
 
-- TODO
+- ADD navbar
+
+- Update FOOTER
 
 HOME - AGENCY - PORTFOLIO - 2
 -----------------------------
