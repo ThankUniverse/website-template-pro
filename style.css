@@ -55,3 +55,8 @@
 {
 	padding: 10%;
 }
+
+hr
+{
+	border-color: blue; width: 50%;
+}
